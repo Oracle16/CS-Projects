@@ -1,0 +1,23 @@
+---------------------------------------
+Author: Oracle16
+---------------------------------------
+Approximate number of hours spent: 15-20 hours 
+---------------------------------------
+Citation of any help received from (approved) sources: 
+
+Object-Oriented Programming in Python
+https://www.piskelapp.com/ (for accurate polygon coordinate mapping of Goomba)
+https://www.colorzilla.com/ (for porting original SUPER MARIO BROS color palette for Goomba)
+Google/search engine to learn class inheritance from Layer.
+---------------------------------------
+Brief overview of program, including any known bugs:
+
+This program defines a `Goomba` class that inherits from `cs1graphics.Layer`. The class allows creating Goomba characters with customizable colors (face, body, shoes, eyes, eyebrows) via constructor arguments and methods (`change_face_color`, `change_eye_color`). It also includes methods to change the Goomba's expression (`set_mood`) and perform animations (`bow`, `move_smoothly`). The reference point is the bottom-center between the shoes.
+
+The `if __name__ == '__main__':` block demonstrates the class usage. It first draws a theater stage scene using the `draw_theater_stage` function, which includes curtains, overhead lights, a decorated floor, and side plants. It then creates four distinct `Goomba` instances with varying appearances and places them on the stage. An animation sequence follows: the overhead lights perform an orbit, the curtain rises, the Goombas move, change mood, and take a bow, the curtain falls, and finally, the Goombas are removed from the canvas.
+
+No known bugs.
+---------------------------------------
+Other comments or response program-specific questions:
+This project was a good exercise in applying object-oriented principles, specifically inheritance with `cs1graphics`. Designing the `Goomba` class with customizable features and distinct methods was challenging but rewarding. Creating the theater stage and animation sequence helped solidify understanding of how to use the custom class effectively. 
+---------------------------------------

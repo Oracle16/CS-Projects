@@ -1,0 +1,20 @@
+---------------------------------------
+Author: Oracle16
+---------------------------------------
+Approximate number of hours spent: 5 hours
+
+---------------------------------------
+Citation of any help received from (approved) sources:
+Object-Oriented Programming in Python
+
+---------------------------------------
+Brief overview of program, including any known bugs:
+The program includes a new class named World, which provides a basic model for this simple one-player game. 
+The world is 2D (sort of like the Sudoku puzzle grid style), organized in rows and columns, with a single player who can move in any of four directions, so long as they remains within the bounds of the world.
+There are no bugs as of now.
+
+---------------------------------------
+Other comments or response program-specific questions:
+Ready Player 1?
+
+---------------------------------------

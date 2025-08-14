@@ -1,0 +1,21 @@
+---------------------------------------
+Author: Oracle16
+---------------------------------------
+Approximate number of hours spent: ~10 hours
+
+---------------------------------------
+Citation of any help received from (approved) sources: 
+Object-Oriented Programming in Python
+
+---------------------------------------
+Brief overview of program, including any known bugs:
+
+This program preprocesses an input text file to create an n-gram model and uses it to generate random text output based on the input. 
+The program mimics the distribution of characters following n-grams in the source text, creating a basic model for language generation.
+No known bugs.
+
+---------------------------------------
+Other comments or response program-specific questions:
+The program can generate some interesting and creative results based on the input text!
+
+---------------------------------------

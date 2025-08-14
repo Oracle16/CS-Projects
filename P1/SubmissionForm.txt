@@ -1,0 +1,25 @@
+---------------------------------------
+Author: Oracle16
+---------------------------------------
+Approximate number of hours spent: 20-25 hours
+---------------------------------------
+Citation of any help received from (approved) sources: 
+
+Object-Oriented Programming in Python
+https://www.piskelapp.com/ (for accurate polygon coordinate mapping)
+https://www.colorzilla.com/ (for porting original SUPER MARIO BROS color palette)
+https://tcrf.net/File:SMB_Title.png (title page inspiration)
+---------------------------------------
+Brief overview of program, including any known bugs:
+
+First frame introduces the background scene with a blue sky, tree, loading textured ground blocks, and original title screen.
+Golden Goomba (character 1) appears on the original title screen.
+As the textured ground blocks finish loading, pipe and hill elements are added to the scene.
+The Brown (Walking) Goomba (character 2) then joins using a Layer class.
+During this sequence, the Golden Goomba disappears along with the title screen.
+Shortly after, the Brown Goomba begins its walk animation, partially obscuring the tree on the right before exiting off-screen to the next level.
+Once all Goombas have departed, a final GAME OVER frame is shown.
+---------------------------------------
+Other comments or response program-specific questions:
+Although I spent a significant amount of time designing this port, I thoroughly enjoyed learning the fundamentals of cs1graphics through this project. Thanks for playing!
+---------------------------------------

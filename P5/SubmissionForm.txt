@@ -1,0 +1,18 @@
+---------------------------------------
+Author: Oracle16
+---------------------------------------
+Approximate number of hours spent: ~12 hours
+
+---------------------------------------
+Citation of any help received from (approved) sources:
+Object-Oriented Programming in Python
+
+---------------------------------------
+Brief overview of program, including any known bugs:
+Interest calculator program submission; calculates year-end balance based on a user-selected interest rate and principal, with an optional feature to display monthly compounded interest.
+
+---------------------------------------
+Other comments or response program-specific questions:
+None (step 5 can be uncommented to test the extra credit compound interest function)
+
+---------------------------------------

@@ -1,0 +1,19 @@
+---------------------------------------
+Author: Oracle16
+---------------------------------------
+Approximate number of hours spent: ~8 hours
+
+---------------------------------------
+Citation of any help received from (approved) sources:
+Object-Oriented Programming in Python
+
+---------------------------------------
+Brief overview of program, including any known bugs:
+The program starts out by asking the user for the value of the number of pixels per grid-cell.
+Then, it creates the appropriate canvas size and lays out the board to scale.
+There are no known bugs as of right now.
+
+---------------------------------------
+Other comments or response program-specific questions:
+None.
+---------------------------------------

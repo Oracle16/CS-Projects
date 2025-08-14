@@ -1,0 +1,21 @@
+---------------------------------------
+Author: Oracle16
+---------------------------------------
+Approximate number of hours spent: ~10 hours
+
+---------------------------------------
+Citation of any help received from (approved) sources:
+Object-Oriented Programming in Python
+
+---------------------------------------
+Brief overview of program, including any known bugs:
+The program takes a DNA sequence and a pattern as the input, finds the first occurrence of the pattern and its reversed version, and constructs a mutated DNA sequence by reversing the middle section between the pattern and its reversed version. 
+The program outputs the prefix, marker, middle, reversed middle, reversed marker, suffix, and the final mutated DNA sequence. 
+The dnaExtra.py program performs the same operation, but uses the index method of a string, while the dna.py program uses the split method of the string class.
+There are no known bugs as of right now.
+
+---------------------------------------
+Other comments or response program-specific questions:
+Thanks!
+
+---------------------------------------

@@ -1,0 +1,18 @@
+---------------------------------------
+Authors: Oracle16
+---------------------------------------
+Approximate number of hours spent: ~15 hours
+
+---------------------------------------
+Citation of any help received from (approved) sources: 
+Object-Oriented Programming in Python
+
+---------------------------------------
+Brief overview of program, including any known bugs: 
+Kattis problem submissions / no bugs as of now.
+
+---------------------------------------
+Other comments or response program-specific questions: 
+None
+
+---------------------------------------
